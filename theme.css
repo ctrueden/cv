@@ -46,3 +46,8 @@ body {
 .navbar {
   min-height: 0;
 }
+
+table td {
+  border-bottom: 1px solid lightgray;
+  padding: 5px;
+}
